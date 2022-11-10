@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"獅子","classId":1,"equips":[1,1,2,3,4],"faceIndex":6,"faceName":"頭像集合","traits":[],"initialLevel":1,"maxLevel":1,"name":"","nickname":"獅子","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"小男孩","classId":1,"equips":[2,1,2,3,0],"faceIndex":2,"faceName":"頭像集合","traits":[],"initialLevel":1,"maxLevel":1,"name":"倫恩","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"他爸","classId":1,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"4","traits":[],"initialLevel":99,"maxLevel":99,"name":"倫恩父親","nickname":"","note":"","profile":""}
+]
